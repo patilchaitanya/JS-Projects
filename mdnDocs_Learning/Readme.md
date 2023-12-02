@@ -8,3 +8,9 @@
 7. Array Methods : 2ways (one change array , one don't change)
    slice 
    splice
+8. Fuctions - params ->block scope
+   Arrow Fuctions - fuction variable  
+
+9. forEach Loop for Array
+10. In Js Fuctions can be passed as an argument to a fuction.
+    ![function-in-function](function-in-function.png)
