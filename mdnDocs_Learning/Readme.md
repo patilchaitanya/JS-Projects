@@ -24,10 +24,23 @@
  ![function-in-function](function-in-function.png)
 
 ### 10. **forEach Loop : to do calculations on same array
- ![Alt text](High_order_functions.png)
+ ![High_order_functions](High_order_functions.png)
 
 ### 11. **map : to create new array
- ![Alt text](map_method.png)
+ ![map_method](map_method.png)
 
 ### 12. **filter : filter val and put in new array
- ![Alt text](filter_metod.png)
+ ![filter_metod](filter_metod.png)
+
+
+## DOM (Data Object Model)
+
+
+### 1. What is Window Object. - Global Object
+![Window_Objext - DOM](<Window_Objext - DOM.png>)
+![window_example](window_example.png)
+
+### 2. DOM (Document object model) - Accessing all HTML elements through objects created.
+![DOM](DOM.png)
+
+![Alt text](dom_manipluation.png)
