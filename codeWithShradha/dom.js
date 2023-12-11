@@ -17,47 +17,47 @@
 
 // //OR
 
-// divs[0].innerText = "new unique value 1";
-// divs[1].innerText = "new unique value 2";
+// // divs[0].innerText = "new unique value 1";
+// // divs[1].innerText = "new unique value 2";
 
-// Prac Qs3 [DOM - add element and style ] : 
-// Create new button element  and add first in the body 
+// // Prac Qs3 [DOM - add element and style ] : 
+// // Create new button element  and add first in the body 
 
-let newBtn = document.createElement("button");
+// let newBtn = document.createElement("button");
 
-document.querySelector("body").prepend(newBtn);
+// document.querySelector("body").prepend(newBtn);
 
-// update innerText and style of btn
+// // update innerText and style of btn
 
-newBtn.innerText = "Click Me!";
+// newBtn.innerText = "Click Me!";
 
-newBtn.style.backgroundColor = "red";
+// newBtn.style.backgroundColor = "red";
 
-newBtn.style.color = "white"; 
-
-
-// set attribute value 
-newBtn.setAttribute("id", "newbtn" );
-console.log(newBtn);
-
-// Prac Qs4 (p - in index.html and class in css)
-// Create p tag giving it class & style
-
-// let para = document.createElement("p");
-// para.innerText = "Hello, Chaitanya here!"
-// para.setAttribute("class", "para1");
+// newBtn.style.color = "white"; 
 
 
-let para = document.querySelector("p");
+// // set attribute value 
+// newBtn.setAttribute("id", "newbtn" );
+// console.log(newBtn);
 
-// Override Class to change the class and accordingly properties like color
+// // Prac Qs4 (p - in index.html and class in css)
+// // Create p tag giving it class & style
 
-// para.setAttribute("class", "newClass");
+// // let para = document.createElement("p");
+// // para.innerText = "Hello, Chaitanya here!"
+// // para.setAttribute("class", "para1");
 
-// Upper method overides classList doesn't use it.
-para.classList.add("newClass");
 
-// To remove classList 
-para.classList.remove("newClass");
+// let para = document.querySelector("p");
+
+// // Override Class to change the class and accordingly properties like color
+
+// // para.setAttribute("class", "newClass");
+
+// // Upper method overides classList doesn't use it.
+// para.classList.add("newClass");
+
+// // To remove classList 
+// para.classList.remove("newClass");
 
 
