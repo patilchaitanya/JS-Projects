@@ -44,3 +44,5 @@
 ![DOM](DOM.png)
 
 ![Alt text](dom_manipluation.png)
+
+## 3. Events In JS
