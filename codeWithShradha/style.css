@@ -1,8 +1,19 @@
-.content {
+.light {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+/* .content {
     color : red;
 
 }
 
 .newClass {
     background-color: rgb(25, 27, 26);
-}
+} */
+

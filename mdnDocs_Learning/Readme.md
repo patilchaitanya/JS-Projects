@@ -43,6 +43,9 @@
 ### 2. DOM (Document object model) - Accessing all HTML elements through objects created.
 ![DOM](DOM.png)
 
-![Alt text](dom_manipluation.png)
+![dom_manipluation](dom_manipluation.png)
 
-## 3. Events In JS
+## 4. Event Handling In JS
+
+* Event Objects 
+![Event_objects](Event_objects.png)

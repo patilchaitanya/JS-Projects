@@ -61,3 +61,37 @@
 // para.classList.remove("newClass");
 
 
+// Prac Qs 5 [Event Handling ] : Toggle Light to Dark Mode
+let modeBtn = document.querySelector("#mode");
+let currMode = "light";
+let body = document.querySelector("body");
+
+const changeTheme = () => {
+    
+    if(currMode === "light"){
+        currMode= "dark";
+
+        // body.style.backgroundColor = "black";
+        // modeBtn.style.color = "white";
+
+        //OR
+        body.classList.add("dark");
+        body.classList.remove("light");
+    } else {
+        currMode = "light";
+
+        // body.style.backgroundColor = "white";
+        // modeBtn.style.color = "black";
+
+        //OR
+        body.classList.add("light");
+        body.classList.remove("dark");
+    }
+    console.log(currMode);
+}
+
+modeBtn.addEventListener("click", changeTheme);
+
+
+
+
