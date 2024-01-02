@@ -49,3 +49,15 @@
 
 * Event Objects 
 ![Event_objects](Event_objects.png)
+
+
+## Classes and Objects
+
+### 1. Objects & Prototype
+![Alt text](Objects_1.png) 
+
+* #### How to Use the __proto__ for inheriting other object methods in other object.
+
+![Alt text](<Using __proto__ for accessing objects methods in another.png>)
+
+![Alt text](Prototype_example2.png)
