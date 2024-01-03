@@ -47,7 +47,7 @@
 
 ## 4. Event Handling In JS
 
-* Event Objects 
+* #### Event Objects 
 ![Event_objects](Event_objects.png)
 
 
