@@ -86,3 +86,7 @@
 ![Alt text](super_keyword_example.png)
 ![Alt text](super_keyword_example2.png)
 ![Alt text](super_keyword_example_3.png)
+
+
+### 5. Try and Catch Error
+![Alt text](try&catch.png)
