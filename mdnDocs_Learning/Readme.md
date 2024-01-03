@@ -78,3 +78,11 @@
 
 * ####  Inheritance Example
 ![Alt text](Inheritance_example.png)
+
+#### 4. Super Keyword
+![Alt text](super_keyword1.png)
+
+* ####  Super Keyword Examples :-
+![Alt text](super_keyword_example.png)
+![Alt text](super_keyword_example2.png)
+![Alt text](super_keyword_example_3.png)
