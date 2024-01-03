@@ -61,3 +61,13 @@
 ![Alt text](<Using __proto__ for accessing objects methods in another.png>)
 
 ![Alt text](Prototype_example2.png)
+
+
+### 2. Classes
+![Alt text](classes_js.png)
+
+* #### 2.1 Constructors
+![Alt text](construtor_classes.png)
+
+* #### Class Example
+![Alt text](Classes_Example.png)
