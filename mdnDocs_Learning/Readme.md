@@ -71,3 +71,10 @@
 
 * #### Class Example
 ![Alt text](Classes_Example.png)
+
+### 3. Inheritance
+
+![Alt text](inheritance.png)
+
+* ####  Inheritance Example
+![Alt text](Inheritance_example.png)
